@@ -6,19 +6,19 @@ Hello, I'm [Oliver Felix], an aspiring front-end web developer and web designer 
 
 ## Skills
 
-- **Web Development:** HTML, CSS, JavaScript
+- **Web Development:** HTML, CSS, JavaScript, Tailwind CSS
 - **Programming:** Python
 - **AI:** Exploring the AI landscape on my MidJourney
 
 ## Projects
 
-### Project 1: [Project Name]
+### Project 1: []
 
 Description: A brief overview of the project, technologies employed, and your role in its development.
 
 Link: [Project Link]
 
-### Project 2: [Project Name]
+### Project 2: []
 
 Description: Another exciting project, highlighting the technologies used and your contributions.
 
@@ -28,6 +28,7 @@ Link: [Project Link]
 
 - [LinkedIn](https://www.linkedin.com/in/oliver-felix-2509a1298)
 - [GitHub](https://github.com/oliverfelix1453)
+- [Instagram](https://www.instagram.com/oliverfelix1453?igsh=MTMyazkweTlzdnlj)
 
 ## Contact
 
