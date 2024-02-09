@@ -12,17 +12,17 @@ Hello, I'm [Oliver Felix], an aspiring front-end web developer and web designer 
 
 ## Projects
 
-### Project 1: []
+### Project 1: [RayBan]
 
 Description: A brief overview of the project, technologies employed, and your role in its development.
 
-Link: [Project Link]
+Link: [https://oliverfelix1453.github.io/RayBan-Branding/]
 
-### Project 2: []
+### Project 2: [The Damai]
 
 Description: Another exciting project, highlighting the technologies used and your contributions.
 
-Link: [Project Link]
+Link: [https://oliverfelix1453.github.io/TheDamai-HotelResortLovina-Bali/]
 
 ## Online Presence
 
