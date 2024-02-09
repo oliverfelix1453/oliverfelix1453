@@ -16,13 +16,13 @@ Greetings, I am [Oliver Felix], an aspiring front-end web developer and web desi
 
 Description: I tried to introduce Ray-Ban in an awesome way
 
-Link: [RayBan Project](https://oliverfelix1453.github.io/RayBan-Branding/)
+Link: [RayBan](https://oliverfelix1453.github.io/RayBan-Branding/)
 
 ### Project 2: [The Damai]
 
 Description: The Damai — Hotel Resort Lovina, Bali | clone.
 
-Link: [The Damai Project](https://oliverfelix1453.github.io/TheDamai-HotelResortLovina-Bali/)
+Link: [The Damai](https://oliverfelix1453.github.io/TheDamai-HotelResortLovina-Bali/)
 
 ## Online Presence
 
